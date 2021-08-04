@@ -1,2 +1,2 @@
 # bandeiraLuz 🚧
-projeto de web scraping com puppeteer
+projeto de webApp scraping com puppeteer
